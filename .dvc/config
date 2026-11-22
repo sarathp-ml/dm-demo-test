@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremore"']
+    url = s3://mlops-data-demo-live-sp/dvc-store
+['remote "myremote"']
+    url = s3://mlops-data-demo-live-sp/dvc-store
